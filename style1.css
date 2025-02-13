@@ -1,0 +1,153 @@
+img.lgbt {
+    text-align: left;
+}
+
+.rangsun {
+    float: right;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.bl {
+    display: block;
+}
+
+.inl {
+    display: inline;
+}
+
+input.submit {
+    background-color: skyblue;
+    color: yellow;
+}
+
+marquee {
+    color: red;
+
+}
+
+p.order {
+    font-size: 25px;
+    margin: 0px;
+}
+p.biggerfont {
+    font-size: 18px;
+}
+header {
+
+    background-color: black;
+
+    color: whitesmoke;
+
+    text-align: center;
+
+    padding: 10px;
+
+    font-size: 30px;
+
+}
+
+ 
+
+main {
+
+    background-color: #fff;
+
+    padding: 20px;
+
+}
+
+footer {
+
+    background-color: #000;
+
+    color: #fff;
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+/* Khai báo CSS sử dụng các bộ chọn lớp cho các thành phần của nội dung */
+
+.tieu-de-bai-viet {
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+}
+
+.ten-tac-gia {
+
+    font-size: 14px;
+
+    font-style: italic;
+
+}
+
+/* Khai báo CSS xác định vị trí hiển thị cho các phần tử HTML */
+
+.hinh-anh {
+
+    float: left;
+
+    margin-right: 10px;
+
+}
+
+.video-clip {
+
+    display: block;
+
+    margin: 10px auto;
+
+}
+
+/* Thiết lập được định dạng CSS màu nền, màu chữ, phông chữ, cỡ chữ, đường viền cho các thành phần nội dung */
+
+.bai-viet {
+
+    background-color: whitesmoke;
+
+    padding: 10px;
+
+    border: 1px solid grey;
+    margin: 10px;
+
+}
+
+.goc-anh {
+
+    background-color: whitesmoke;
+
+    padding: 10px;
+
+    border: 1px solid grey;
+    margin: 10px;
+
+}
+
+.goc-am-nhac-video {
+
+    background-color: whitesmoke;
+
+    padding: 10px;
+
+    border: 1px solid grey;
+    margin: 10px;
+
+}
+
+.goc-binh-luan {
+
+    background-color: whitesmoke;
+
+    padding: 10px;
+
+    border: 1px solid grey;
+    margin: 10px;
+
+}
